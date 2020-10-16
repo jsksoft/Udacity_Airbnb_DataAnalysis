@@ -1,5 +1,5 @@
 # Udacity_Airbnb_DataAnalysis
-Analyzing Boston Airbnb data using the CRISP-DM Process<br>
+Analyzing Boston Airbnb data using the CRISP-DM Process <br>
 Udacity Nanodegree: Date Science
 
 ## Objective
@@ -18,7 +18,7 @@ The following python libraries are used for the project:
 - Seaborn
 
 ## Dataset
-The dataset can be downloaded on Kaggle: https://www.kaggle.com/airbnb/boston
+The dataset can be downloaded on Kaggle: https://www.kaggle.com/airbnb/boston. <br>
 It contains the follwing files:
 - lisings.csv
 - calender.csv
@@ -31,5 +31,5 @@ It contains the follwing files:
  - It does not look like that there is a big correlation between the number of bookings and high-price or low-price locations. 
 - In general, the higher the number beds, bedrooms or bathrooms, the higher will be the median price of an accommodation. 
 
-My results are summarized on a blog post which can be found here:  
+My results are summarized on a blog post which can be found here: <br>
 https://jklinder.medium.com/being-successful-at-airbnb-in-boston-7a15357c7037
